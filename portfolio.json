@@ -1,0 +1,392 @@
+{
+  "name": "Jacek Stryjewski",
+  "label": "Supply Chain Manager",
+  "image_path": "img/default-image.png",
+  "contact": {
+    "email": "jacek.stryjewski@outlook.com",
+    "phone": "517-149-888",
+    "location": "Warsaw, Poland"
+  },
+  "summary": "Experienced Supply Chain Menagment and Demand Planning with over 6 years of experience in planning, forecasting, S&OP coordination, and managing supply chain teams. Skilled in statistical and econometric forecasting methods, data analysis, and system implementation (including third-party forecasting tools). Strong background in e-commerce and retail (FMCG and beauty sectors). Proficient in SQL, Python, VBA, JavaScript and BI tools (Power BI, Qlik Sense). Known for a structured, analytical approach combined with excellent leadership, communication, and cross-departmental collaboration skills.",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "Personal Website",
+      "url": "https://sample.com",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jstryjewski",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/JStryjewski",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Natura Sp. z o.o.",
+      "position": "Supply Chain Manager",
+      "url": "https://drogerienatura.pl",
+      "start_date": "01/08/2023",
+      "end_date": "Present",
+      "summary": "At Natura, I manage the full supply chain process across online and offline channels, including leading the S&OP process and a team of six supply chain specialist. I implemented a third-party forecasting tool integrated with machine learning algorithms, improving demand forecast accuracy by 16% and reducing excess inventory by 9%, while maintaining service levels above 94%. I coordinated logistics optimization projects that shortened lead times by 15% and enhanced product flow across two hundred stores. My work on e-commerce availability strategies led to a 20% increase in online product availability. I also act as a key liaison between Supply Chain, Commerce, Marketing, and Finance, ensuring strategic alignment and data-driven planning decisions throughout the organization.",
+      "highlights": [
+        "Lead and coordinate the company's S&OP process, ensuring alignment between sales, supply chain, and management board.",
+        "Supervise and mentor the Demand Planning team responsible for online and offline channels.",
+        "Implement a third-party demand planning system (selection, design, and configuration phases).",
+        "Manage inventory control strategies to maintain optimal stock levels and minimize excess inventory."
+      ]
+    },
+    {
+      "company": "Jeronimo Martins Polska S.A. (Biedronka)",
+      "position": "Business Analyst",
+      "url": "https://www.biedronka.pl",
+      "start_date": "01/03/2023",
+      "end_date": "01/08/2023",
+      "summary": "As a Business Analyst at Biedronka HQ, I focused on leveraging customer behavior data from the Moja Biedronka mobile app to drive actionable insights. I developed churn prediction models and click-rate analyses, enabling the marketing and commercial teams to optimize promotion strategies. The new churn model achieved 6% better tracking accuracy compared to the previous version, allowing more precise targeting of at-risk customer segments. I also performed fraud detection and store-level promotion effectiveness studies, integrating both quantitative and behavioral data to support loyalty program improvements and sellout growth.",
+      "highlights": [
+        "Analysed customer retention, click rates, and promotional impacts in the 'Moja Biedronka' application.",
+        "Built churn prediction models and customer behaviour forecasts using Python and SQL.",
+        "Provided actionable insights to Marketing and Commercial teams to increase engagement and sales."
+      ]
+    },
+    {
+      "company": "Jeronimo Martins Polska S.A. (Biedronka)",
+      "position": "Demand Planning Specialist",
+      "url": "https://www.biedronka.pl",
+      "start_date": "01/03/2021",
+      "end_date": "01/03/2023",
+      "summary": "In the Demand Planning division, I was responsible for forecasting promotional and baseline sales for over 2,500 SKUs using models such as Random Forest and polynomial regression. My forecasting initiatives improved demand accuracy by 9% and enabled proactive communication with suppliers. I also coordinated cross-functional implementation of new assortment items and built analytical tools to identify sales anomalies, leading to a reduction of lost sales by over 3%. My forecasts supported six national warehouses and helped align inventory with commercial priorities, enhancing availability during peak promotional cycles.",
+      "highlights": [
+        "Forecasted promotional and baseline sales for FMCG assortment across 6 distribution centers.",
+        "Developed advanced sales models using Random Forest and polynomial regression methods.",
+        "Collaborated with suppliers, logistics, and commercial teams to optimize the demand planning process."
+      ]
+    },
+    {
+      "company": "Natura Sp. z o.o.",
+      "position": "Supply Chain Specialist",
+      "url": "https://drogerienatura.pl",
+      "start_date": "01/07/2019",
+      "end_date": "01/03/2021",
+      "summary": "As a Supply Chain Specialist at Natura, I managed nationwide inventory planning across all retail stores using SARIMA models to forecast demand with seasonal patterns. I worked closely with teams responsible for merchandising, store operations, and warehouse strategy to align inventory levels with sales potential and product rotation cycles. By setting minimum inventory thresholds by product group and implementing an ABC classification system, I helped ensure high availability of key items while reducing overstock on slow-moving products. I also led cross-functional initiatives to improve the flow of demand data and created automated dashboards to monitor sales performance against forecast KPIs, enhancing decision-making and responsiveness.",
+      "highlights": [
+        "Managed inventory planning for all store locations nationwide using SARIMA models.",
+        "Led cross-departmental projects to improve demand information flow and forecasting accuracy.",
+        "Created customized reports and dashboards to track sales vs. forecast KPIs."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Interactive HTML Reporting Tool for Availability Analysis",
+      "summary": "Developed a dynamic HTML report using Python, SQL, and JavaScript to visualize monthly availability levels across different item views (e.g., ABC classification, item module). The report features interactive buttons allowing users to filter data and update graphs and tables in real-time. The backend pipeline extracts data via SQL, processes it in Python, and renders it as a fully interactive HTML report with embedded Chart.js visuals and export-to-Excel functionality. This tool improved supply chain transparency and decision-making by enabling flexible, self-service data exploration.",
+      "url": "https://github.com/JStryjewski/Reporting_AVA_SI",
+      "highlights": [
+        "Python + SQL backend for automated data extraction and preprocessing",
+        "Interactive HTML front-end rendered via Python (Jinja2/HTML templating)",
+        "JavaScript and Chart.js integration for dynamic chart updates and UI responsiveness"
+      ],
+      "images": [
+        {
+          "img_path": "https://drive.google.com/thumbnail?id=1Y720JIYofMyye8JtZ1jpMF1_J28QZce8&sz=w1000",
+          "caption": "Dashboard Screenshot 1"
+        },
+        {
+          "img_path": "https://drive.google.com/thumbnail?id=1itAxcMIfL-TJyqsrZ5N4adMb8GCy3zzZ&sz=w1000",
+          "caption": "Dashboard Screenshot 2"
+        },
+        {
+          "img_path": "https://drive.google.com/thumbnail?id=1Q7pC0JdHEhLpN2MzWbSzZJ4Me8fgpbGF&sz=w1000",
+          "caption": "Dashboard Screenshot 3"
+        }
+      ]
+    },
+    {
+      "title": "Interactive HTML Dashboard for Supplier Performance Monitoring",
+      "summary": "Developed an interactive HTML dashboard using Python, Jinja2, and JavaScript to track and visualize key supplier performance indicators, including service level (units and value), on-time and in-full delivery, and order value by supplier. The interface features a responsive left-side slider for supplier selection, dynamically updating six embedded Chart.js graphs and a detailed data table at the top of the page. This tool provides an at-a-glance overview of supplier reliability and performance, enabling procurement teams to take data-driven action and enhance supply chain efficiency.",
+      "url": "https://github.com/JStryjewski/Supplier_dashboard",
+      "highlights": [
+        "Python-driven backend for extracting and preprocessing supplier metrics from structured sources",
+        "HTML/CSS front-end rendered via Jinja2 for flexible and maintainable report generation",
+        "Enabled cross-functional visibility into supplier performance, improving strategic sourcing decisions"
+      ],
+      "images": [
+        {
+          "img_path": "https://drive.google.com/thumbnail?id=10ysJ2j2pgoFCPAYR4WoGz_q_U6_gQYzh&sz=w1000",
+          "caption": "Dashboard Screenshot 1"
+        },
+        {
+          "img_path": "https://drive.google.com/thumbnail?id=1IndhOPbtl-ttKWd_BbVwZ4AFeXISyTIf&sz=w1000",
+          "caption": "Dashboard Screenshot 2"
+        }
+      ]
+    },
+    {
+      "title": "Sales Forecasting Pipeline Using XGBoost and Interactive Visual Analysis",
+      "summary": "Developed a forecasting pipeline in Python using XGBoost to predict daily sales across multiple retail stores. The solution integrates historical transaction data and store metadata, processes it with feature engineering and dimensionality reduction (PCA), and generates forecasts with model validation. The results are visualized through interactive plots showing prediction accuracy and feature importance, enabling stakeholders to assess model reliability and key sales drivers.",
+      "url": "https://github.com/JStryjewski/Forecasting_tool",
+      "highlights": [
+        "Feature importance plots and actual vs. predicted sales line charts using matplotlib for model interpretability",
+        "Modular design ready for deployment in Jupyter, with extensibility for test data forecasting and dashboard integration",
+        "Enabled rapid prototyping of machine learning forecasts to support data-driven retail operations planning"
+      ],
+      "images": [
+        {
+          "img_path": "https://drive.google.com/thumbnail?id=1Y5oDwHPHVGEi7lOwUyv6ThJT6QgKZmqy&sz=w1000",
+          "caption": "MAPE per store"
+        },
+        {
+          "img_path": "https://drive.google.com/thumbnail?id=10Sg_i_zyGkU9JwzEoN-R8_YqlspRepgX&sz=w1000",
+          "caption": "Heatmap of feature importance"
+        },
+        {
+          "img_path": "https://drive.google.com/thumbnail?id=1mZuu34LSjZV9KwQlwqdM5rR-V3trfNZY&sz=w1000",
+          "caption": "Forecasted vs. actual sales"
+        }
+      ]
+    }
+  ],
+  "key_achievements": [
+    {
+      "achievement": "Strategic Supply Chain Optimization",
+      "summary": "Led strategic supply chain improvements across retail and ecommerce by combining forecasting, analytics, and team leadership to optimize stock and planning efficiency.",
+      "highlights": [
+        "Implemented ML-based forecasting models improving supply accuracy and reducing overstock by 12%",
+        "Introduced new demand planning software, streamlining S&OP and improving cross-departmental coordination"
+      ]
+    },
+    {
+      "achievement": "Customer Analytics for Loyalty App",
+      "summary": "Enhanced customer analytics capabilities through predictive modeling and segmentation for the Moja Biedronka mobile app.",
+      "highlights": [
+        "Built churn prediction model resulting in 6% better customer tracking than previous solution",
+        "Increased visibility of campaign impact through detailed analysis of click-through and sellout rates"
+      ]
+    },
+    {
+      "achievement": "Promotional Forecasting Accuracy",
+      "summary": "Improved promotional planning accuracy by using data science to estimate baseline and promotional uplift.",
+      "highlights": [
+        "Reduced promotional stockouts by 15% through better alignment of forecasts with supplier commitments",
+        "Applied Random Forest and regression modeling to refine baseline sales estimations"
+      ]
+    },
+    {
+      "achievement": "S&OP Process Leadership",
+      "summary": "Managed S&OP process for retail and ecommerce, aligning forecasts with supply capabilities and business targets.",
+      "highlights": [
+        "Improved consensus forecast accuracy by 10% via tighter integration between commercial and logistics teams",
+        "Enabled proactive risk management through monthly scenario simulations"
+      ]
+    },
+    {
+      "achievement": "Retail Inventory Optimization",
+      "summary": "Optimized retail inventory levels using classification models and safety stock parameters across all store formats.",
+      "highlights": [
+        "Introduced ABC classification and minimum thresholds, reducing excess stock by 8%",
+        "Increased on-shelf availability by 6% for high-rotation items"
+      ]
+    },
+    {
+      "achievement": "Dashboard and Reporting Automation",
+      "summary": "Automated reporting and improved transparency with a custom-built HTML dashboard for availability metrics.",
+      "highlights": [
+        "Created an interactive HTML dashboard with filters and graphs using Python, SQL, and JavaScript",
+        "Enabled Excel export and real-time updates, improving stakeholder engagement with planning KPIs"
+      ]
+    },
+    {
+      "achievement": "Cross-Functional Project Coordination",
+      "summary": "Coordinated cross-functional demand planning projects with merchandising, operations, and IT teams.",
+      "highlights": [
+        "Reduced manual planning tasks by 20% by automating data flow between departments",
+        "Improved forecast reliability through better collaboration and shared ownership of planning assumptions"
+      ]
+    },
+    {
+      "achievement": "Forecasting Process Standardization",
+      "summary": "Improved information flow and data governance across the demand planning function at Natura.",
+      "highlights": [
+        "Led process standardization initiatives to harmonize forecasting logic and reporting structure",
+        "Trained junior team members in Python-based forecasting and Power BI reporting"
+      ]
+    },
+    {
+      "achievement": "Sellout Analytics for Supplier Collaboration",
+      "summary": "Analyzed sellout trends and anomalies to support commercial strategy and supplier collaboration.",
+      "highlights": [
+        "Detected and flagged abnormal sales behaviors, enabling correction of supplier forecasts",
+        "Reduced wholesale lost sales reporting by 10% through more accurate data interpretation"
+      ]
+    },
+    {
+      "achievement": "Team Leadership and System Implementation",
+      "summary": "Led a supply chain team of 6 in coordinating demand forecasts and system implementation.",
+      "highlights": [
+        "Successfully guided NADII / Blue Yonder system implementation phase (design and configuration)",
+        "Mentored team in forecasting methodology and S&OP process execution"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Wojskowa Akademia Techniczna",
+      "location": "Warsaw, Poland",
+      "url": "https://www.wojsko-polskie.pl/wat/",
+      "degrees": [
+        "Master of Engineering in Logistics",
+        "Minor in Enterprise Logistics"
+      ],
+      "graduation_date": "30/06/2019"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Knowledgeable in random forest modeling techniques",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Statistical modeling expertise",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Proficient in implementing polynomial regression techniques",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Sales forecasting techniques",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "SQL data manipulation skills",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Experienced in Python programming",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "VBA automation",
+      "proficiency": 80,
+      "proficiency_label": "Proficient"
+    },
+    {
+      "name": "Advanced MS Excel proficiency",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Data visualization with Power BI",
+      "proficiency": 70,
+      "proficiency_label": "Proficient"
+    },
+    {
+      "name": "Efficient data preparation with Power Query",
+      "proficiency": 80,
+      "proficiency_label": "Proficient"
+    },
+    {
+      "name": "Experience in implementing demand planning tools",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Collaborative S&OP management",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Facilitation of product launch activities",
+      "proficiency": 80,
+      "proficiency_label": "Proficient"
+    },
+    {
+      "name": "Cross-functional collaboration",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Strong analytical skills",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Excellent communication skills",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Team leadership and mentoring",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cycling and Outdoor Activities",
+      "summary": "Enjoys long-distance cycling trips that build endurance, adaptability, and strategic thinking—skills applied to dynamic supply chain challenges.",
+      "images": [
+        {
+          "img_path": "https://drive.google.com/thumbnail?id=1k4BcGt0D3CvSWP3NPIG1K7dGab21Tutr&sz=w1000"
+        }
+      ]
+    },
+    {
+      "name": "Traveling",
+      "summary": "Passionate about organizing complex trips, including planning routes, logistics, and accommodations—an experience that strengthens project planning and team collaboration.",
+      "images": [
+        {
+          "img_path": "https://drive.google.com/thumbnail?id=1wCLKouwF3cx47RyHBZsnn0I6MzLTPcsy&sz=w1000"
+        }
+      ]
+    },
+    {
+      "name": "Soccer",
+      "summary": "Believes in strengthening workplace cohesion through enhancing team spirit and teamplay.",
+      "images": [
+        {
+          "img_path": "https://drive.google.com/thumbnail?id=1-3pTJui5ziHYGgDXEYZgYON-xS0d6rqD&sz=w1000"
+        }
+      ]
+    },
+    {
+      "name": "Contemporary Literature",
+      "summary": "Interested in modern storytelling forms that broaden perspective and stimulate creative thinking in professional problem-solving.",
+      "images": [
+        {
+          "img_path": "https://drive.google.com/thumbnail?id=1j5burbLWjlb2VBRxcHu-1pcCub7IcMmh&sz=w1000"
+        }
+      ]
+    },
+    {
+      "name": "Cinematography",
+      "summary": "Explores modern film as a way to enhance storytelling awareness and visual creativity, applying these insights to presentations and strategic thinking.",
+      "images": [
+        {
+          "img_path": "https://drive.google.com/thumbnail?id=10Y4J_gbw2lFZPL3x_YvbIriXnxBZydb3&sz=w1000"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Polish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "intermediate"
+    }
+  ]
+}
