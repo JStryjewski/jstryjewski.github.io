@@ -7,12 +7,12 @@
     "phone": "517-149-888",
     "location": "Warsaw, Poland"
   },
-  "summary": "Experienced Supply Chain Menagment and Demand Planning with over 6 years of experience in planning, forecasting, S&OP coordination, and managing supply chain teams. Skilled in statistical and econometric forecasting methods, data analysis, and system implementation (including third-party forecasting tools). Strong background in e-commerce and retail (FMCG and beauty sectors). Proficient in SQL, Python, VBA, JavaScript and BI tools (Power BI, Qlik Sense). Known for a structured, analytical approach combined with excellent leadership, communication, and cross-departmental collaboration skills.",
+  "summary": "Experienced Supply Chain Managment and Demand Planning with over 6 years of experience in planning, forecasting, S&OP coordination, and managing supply chain teams. Skilled in statistical and econometric forecasting methods, data analysis, and system implementation (including third-party forecasting tools). Strong background in e-commerce and retail (FMCG and beauty sectors). Proficient in SQL, Python, VBA, JavaScript and BI tools (Power BI, Qlik Sense). Known for a structured, analytical approach combined with excellent leadership, communication, and cross-departmental collaboration skills.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
-      "label": "Personal Website",
-      "url": "https://sample.com",
+      "label": "jstryjewski.github.io",
+      "url": "https://jstryjewski.github.io/",
       "svg_path": "img/globe.svg"
     },
     {
